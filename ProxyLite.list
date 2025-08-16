@@ -8,7 +8,11 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,1lou
+
+#Flight Sim
 DOMAIN-KEYWORD,flightsim-studio
+DOMAIN-KEYWORD,fselite
+DOMAIN-KEYWORD,simbrief
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
