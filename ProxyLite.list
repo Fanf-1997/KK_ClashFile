@@ -9,6 +9,8 @@ DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,1lou
 
+# 域名匹配
+DOMAIN,docs.flightsim-studio.com
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
