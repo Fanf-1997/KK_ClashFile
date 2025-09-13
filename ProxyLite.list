@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,1lou
-DOMAIN-KEYWORD,inibuilds
+
 
 # Flight Sim
 # DOMAIN-KEYWORD,fselite
@@ -16,6 +16,7 @@ DOMAIN-KEYWORD,flightsim-studio
 DOMAIN-KEYWORD,beyondatc
 DOMAIN-KEYWORD,fenixsim
 DOMAIN-KEYWORD,simbrief
+DOMAIN-KEYWORD,inibuilds
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
