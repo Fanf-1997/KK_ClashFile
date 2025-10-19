@@ -7,6 +7,13 @@
 # 提取自 UU 加速器并附加 no-resolve 参数
 
 payload:
+  - IP-CIDR,198.18.1.0/24,no-resolve
+  - IP-CIDR,198.18.20.0/24,no-resolve
+  - IP-CIDR,198.18.0.0/24,no-resolve
+  - IP-CIDR,198.18.2.0/24,no-resolve
+  - IP-CIDR,111.31.238.0/24,no-resolve
+  - IP-CIDR,198.18.5.0/24,no-resolve
+  - IP-CIDR,39.156.8.0/24,no-resolve
   - IP-CIDR,3.91.126.88/32,no-resolve
   - IP-CIDR,3.211.138.83/32,no-resolve
   - IP-CIDR,3.219.77.23/32,no-resolve
