@@ -25,6 +25,7 @@ DOMAIN-KEYWORD,inibuilds
 
 # Game
 #DOMAIN-KEYWORD,pubg
+#DOMAIN-KEYWORD,steamcommunity
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
