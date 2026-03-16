@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,gov.hk
 
+#AEROSOFT ONE
+DOMAIN,d3qjdw4mzt57az.cloudfront.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
