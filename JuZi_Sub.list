@@ -1,10 +1,12 @@
 # 节点订阅网站
 # 直连
 DOMAIN-KEYWORD,juzi
+DOMAIN-KEYWORD,ssrdog
 DOMAIN,juzi62.xyz
 DOMAIN,juzi71.xyz
 DOMAIN,juzi52.xyz
 DOMAIN,juzi52.net
+
 # 代理
 DOMAIN,jz5557.com
 DOMAIN,jzy55999.com
